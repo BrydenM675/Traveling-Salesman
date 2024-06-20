@@ -1,0 +1,61 @@
+Script started on 2023-12-06 10:28:09-05:00 [TERM="xterm" TTY="/dev/pts/210" COLUMNS="80" LINES="24"]
+[?2004h]0;mollenjb@stu: ~/412/project/testmollenjb@stu:~/412/project/test$ cd 412make test4cleantest3cleantest4[4Pcd 412[K./exact.sh
+[?2004l10
+
+real	0m0.603s
+user	0m0.265s
+sys	0m0.339s
+11
+
+real	0m0.652s
+user	0m0.308s
+sys	0m0.343s
+12
+
+real	0m0.671s
+user	0m0.368s
+sys	0m0.290s
+13
+
+real	0m0.868s
+user	0m0.617s
+sys	0m0.244s
+14
+
+real	0m1.419s
+user	0m1.135s
+sys	0m0.284s
+15
+
+real	0m2.545s
+user	0m2.268s
+sys	0m0.281s
+16
+
+real	0m5.117s
+user	0m4.840s
+sys	0m0.268s
+17
+
+real	0m10.998s
+user	0m10.647s
+sys	0m0.350s
+18
+
+real	0m23.751s
+user	0m23.439s
+sys	0m0.298s
+19
+
+real	0m51.356s
+user	0m51.095s
+sys	0m0.244s
+20
+
+real	1m51.025s
+user	1m50.660s
+sys	0m0.325s
+[?2004h]0;mollenjb@stu: ~/412/project/testmollenjb@stu:~/412/project/test$ exit
+[?2004lexit
+
+Script done on 2023-12-06 10:31:57-05:00 [COMMAND_EXIT_CODE="0"]

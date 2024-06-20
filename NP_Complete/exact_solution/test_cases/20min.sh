@@ -1,0 +1,1 @@
+python ../cs412_tsp_exact.py < 20min.txt > 20minoutput.txt
